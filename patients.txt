@@ -1,0 +1,416 @@
+ID: 1
+Name: SARIM
+Age: 19
+Gender: male
+Disease: malaria
+Doctor: Dr. Salman
+
+-------------------------
+ID: 2
+Name: RAFAY
+Age: 18
+Gender: male
+Disease: dengue
+Doctor: Dr. Rauf
+
+-------------------------
+ID: 3
+Name: HAMZA
+Age: 22
+Gender: male
+Disease: flu
+Doctor: Dr. Kamran
+
+-------------------------
+ID: 4
+Name: AYESHA
+Age: 20
+Gender: female
+Disease: fever
+Doctor: Dr. Sana
+
+-------------------------
+ID: 5
+Name: HIBA
+Age: 23
+Gender: female
+Disease: typhoid
+Doctor: Dr. Zainab
+
+-------------------------
+ID: 7
+Name: AHMED
+Age: 25
+Gender: male
+Disease: asthma
+Doctor: Dr. Irfan
+
+-------------------------
+ID: 8
+Name: NOOR
+Age: 21
+Gender: female
+Disease: allergy
+Doctor: Dr. Adeel
+
+-------------------------
+ID: 9
+Name: SANA
+Age: 27
+Gender: female
+Disease: diabetes
+Doctor: Dr. Aslam
+
+-------------------------
+ID: 10
+Name: ZAIN
+Age: 24
+Gender: male
+Disease: fracture
+Doctor: Dr. Bilal
+
+-------------------------
+ID: 11
+Name: ABDULLAH
+Age: 26
+Gender: male
+Disease: malaria
+Doctor: Dr. Salman
+
+-------------------------
+ID: 12
+Name: HASSAN
+Age: 29
+Gender: male
+Disease: dengue
+Doctor: Dr. Rauf
+
+-------------------------
+ID: 13
+Name: ALI
+Age: 20
+Gender: male
+Disease: fever
+Doctor: Dr. Sana
+
+-------------------------
+ID: 14
+Name: FATIMA
+Age: 18
+Gender: female
+Disease: flu
+Doctor: Dr. Kamran
+
+-------------------------
+ID: 15
+Name: AREESHA
+Age: 22
+Gender: female
+Disease: typhoid
+Doctor: Dr. Zainab
+
+-------------------------
+ID: 16
+Name: HUNAIN
+Age: 23
+Gender: male
+Disease: cough
+Doctor: Dr. Adeel
+
+-------------------------
+ID: 17
+Name: AMNA
+Age: 19
+Gender: female
+Disease: allergy
+Doctor: Dr. Hashmi
+
+-------------------------
+ID: 18
+Name: AREEB
+Age: 28
+Gender: male
+Disease: migraine
+Doctor: Dr. Irfan
+
+-------------------------
+ID: 19
+Name: MARYAM
+Age: 21
+Gender: female
+Disease: fracture
+Doctor: Dr. Bilal
+
+-------------------------
+ID: 20
+Name: SAAD
+Age: 31
+Gender: male
+Disease: asthma
+Doctor: Dr. Aslam
+
+-------------------------
+ID: 21
+Name: YUSUF
+Age: 22
+Gender: male
+Disease: flu
+Doctor: Dr. Kamran
+
+-------------------------
+ID: 22
+Name: RIMSHA
+Age: 20
+Gender: female
+Disease: fever
+Doctor: Dr. Sana
+
+-------------------------
+ID: 23
+Name: HAREEM
+Age: 25
+Gender: female
+Disease: dengue
+Doctor: Dr. Rauf
+
+-------------------------
+ID: 24
+Name: ZOHAIB
+Age: 27
+Gender: male
+Disease: malaria
+Doctor: Dr. Salman
+
+-------------------------
+ID: 25
+Name: TALHA
+Age: 19
+Gender: male
+Disease: cough
+Doctor: Dr. Adeel
+
+-------------------------
+ID: 26
+Name: ARISHA
+Age: 24
+Gender: female
+Disease: diabetes
+Doctor: Dr. Aslam
+
+-------------------------
+ID: 27
+Name: DANIAL
+Age: 29
+Gender: male
+Disease: allergy
+Doctor: Dr. Hashmi
+
+-------------------------
+ID: 28
+Name: SHANZA
+Age: 23
+Gender: female
+Disease: typhoid
+Doctor: Dr. Zainab
+
+-------------------------
+ID: 29
+Name: AZLAN
+Age: 26
+Gender: male
+Disease: fever
+Doctor: Dr. Sana
+
+-------------------------
+ID: 30
+Name: JAVERIA
+Age: 28
+Gender: female
+Disease: flu
+Doctor: Dr. Kamran
+
+-------------------------
+ID: 31
+Name: RAZA
+Age: 24
+Gender: male
+Disease: cough
+Doctor: Dr. Adeel
+
+-------------------------
+ID: 32
+Name: LARAIB
+Age: 22
+Gender: female
+Disease: allergy
+Doctor: Dr. Hashmi
+
+-------------------------
+ID: 33
+Name: NABEEL
+Age: 30
+Gender: male
+Disease: migraine
+Doctor: Dr. Irfan
+
+-------------------------
+ID: 34
+Name: MAHAM
+Age: 21
+Gender: female
+Disease: fever
+Doctor: Dr. Sana
+
+-------------------------
+ID: 35
+Name: FAHAD
+Age: 27
+Gender: male
+Disease: dengue
+Doctor: Dr. Rauf
+
+-------------------------
+ID: 36
+Name: ZAINAB
+Age: 25
+Gender: female
+Disease: diabetes
+Doctor: Dr. Aslam
+
+-------------------------
+ID: 37
+Name: SHAHZAIB
+Age: 23
+Gender: male
+Disease: fracture
+Doctor: Dr. Bilal
+
+-------------------------
+ID: 38
+Name: ANUM
+Age: 20
+Gender: female
+Disease: flu
+Doctor: Dr. Kamran
+
+-------------------------
+ID: 39
+Name: MUSA
+Age: 26
+Gender: male
+Disease: asthma
+Doctor: Dr. Irfan
+
+-------------------------
+ID: 40
+Name: HIRA
+Age: 19
+Gender: female
+Disease: typhoid
+Doctor: Dr. Zainab
+
+-------------------------
+ID: 41
+Name: FARHAN
+Age: 28
+Gender: male
+Disease: fever
+Doctor: Dr. Sana
+
+-------------------------
+ID: 42
+Name: ESHAL
+Age: 22
+Gender: female
+Disease: flu
+Doctor: Dr. Kamran
+
+-------------------------
+ID: 43
+Name: SAMEER
+Age: 24
+Gender: male
+Disease: dengue
+Doctor: Dr. Rauf
+
+-------------------------
+ID: 44
+Name: MAIRA
+Age: 23
+Gender: female
+Disease: malaria
+Doctor: Dr. Salman
+
+-------------------------
+ID: 45
+Name: ANAS
+Age: 27
+Gender: male
+Disease: allergy
+Doctor: Dr. Hashmi
+
+-------------------------
+ID: 46
+Name: SARA
+Age: 21
+Gender: female
+Disease: cough
+Doctor: Dr. Adeel
+
+-------------------------
+ID: 47
+Name: KAMRAN
+Age: 29
+Gender: male
+Disease: fracture
+Doctor: Dr. Bilal
+
+-------------------------
+ID: 48
+Name: HANNAN
+Age: 31
+Gender: male
+Disease: flu
+Doctor: Dr. Kamran
+
+-------------------------
+ID: 49
+Name: RANIA
+Age: 20
+Gender: female
+Disease: fever
+Doctor: Dr. Sana
+
+-------------------------
+ID: 50
+Name: TAYYAB
+Age: 25
+Gender: male
+Disease: asthma
+Doctor: Dr. Irfan
+
+-------------------------
+ID: 90
+Name: Maxwell
+Age: 43
+Gender: male
+Disease: flue
+Doctor: Smith
+
+-------------------------
+ID: 90
+Name: Maxwell
+Age: 43
+Gender: male
+Disease: Flue
+Doctor: Smith
+
+-------------------------
+ID: 90
+Name: Maxwell
+Age: 43
+Gender: male
+Disease: Flue
+Doctor: Smith
+
+-------------------------

@@ -1,0 +1,195 @@
+ID: 1
+Name: Arsalan
+Gender: Male
+Specialization: Cardiologist
+Experience: 3 years
+
+-------------------------
+ID: 2
+Name: Dr. Sana
+Gender: Female
+Specialization: Neurologist
+Experience: 5 years
+
+-------------------------
+ID: 3
+Name: Dr. Kamran
+Gender: Male
+Specialization: Dermatologist
+Experience: 7 years
+
+-------------------------
+ID: 4
+Name: Dr. Zainab
+Gender: Female
+Specialization: Pediatrician
+Experience: 4 years
+
+-------------------------
+ID: 5
+Name: Dr. Bilal
+Gender: Male
+Specialization: Orthopedic
+Experience: 9 years
+
+-------------------------
+ID: 6
+Name: Dr. Ayesha
+Gender: Female
+Specialization: Gynecologist
+Experience: 6 years
+
+-------------------------
+ID: 7
+Name: Dr. Hashmi
+Gender: Male
+Specialization: ENT Specialist
+Experience: 8 years
+
+-------------------------
+ID: 8
+Name: Dr. Irfan
+Gender: Male
+Specialization: Pulmonologist
+Experience: 10 years
+
+-------------------------
+ID: 9
+Name: Dr. Mehak
+Gender: Female
+Specialization: Psychiatrist
+Experience: 3 years
+
+-------------------------
+ID: 10
+Name: Dr. Rauf
+Gender: Male
+Specialization: Pathologist
+Experience: 12 years
+
+-------------------------
+ID: 11
+Name: Dr. Salman
+Gender: Male
+Specialization: General Physician
+Experience: 11 years
+
+-------------------------
+ID: 12
+Name: Dr. Hiba
+Gender: Female
+Specialization: Radiologist
+Experience: 4 years
+
+-------------------------
+ID: 13
+Name: Dr. Saad
+Gender: Male
+Specialization: Gastroenterologist
+Experience: 6 years
+
+-------------------------
+ID: 14
+Name: Dr. Maria
+Gender: Female
+Specialization: Endocrinologist
+Experience: 5 years
+
+-------------------------
+ID: 15
+Name: Dr. Umar
+Gender: Male
+Specialization: Nephrologist
+Experience: 9 years
+
+-------------------------
+ID: 16
+Name: Dr. Kiran
+Gender: Female
+Specialization: Ophthalmologist
+Experience: 7 years
+
+-------------------------
+ID: 17
+Name: Dr. Talha
+Gender: Male
+Specialization: Cardiologists
+Experience: 4 years
+
+-------------------------
+ID: 18
+Name: Dr. Samina
+Gender: Female
+Specialization: Dermatologist
+Experience: 8 years
+
+-------------------------
+ID: 19
+Name: Dr. Azhar
+Gender: Male
+Specialization: Neurologist
+Experience: 13 years
+
+-------------------------
+ID: 20
+Name: Dr. Noor
+Gender: Female
+Specialization: Pediatrician
+Experience: 3 years
+
+-------------------------
+ID: 21
+Name: Dr. Danish
+Gender: Male
+Specialization: Orthopedic
+Experience: 6 years
+
+-------------------------
+ID: 22
+Name: Dr. Rida
+Gender: Female
+Specialization: Gynecologist
+Experience: 9 years
+
+-------------------------
+ID: 23
+Name: Dr. Hamza
+Gender: Male
+Specialization: Psychiatrist
+Experience: 5 years
+
+-------------------------
+ID: 24
+Name: Dr. Anum
+Gender: Female
+Specialization: Radiologist
+Experience: 7 years
+
+-------------------------
+ID: 25
+Name: Dr. Yasir
+Gender: Male
+Specialization: General Physician
+Experience: 10 years
+
+-------------------------ID: 88
+Name: QLI
+Gender: MAL
+Specialization: JOB
+Experience: 8 years
+
+-------------------------
+ID: 66
+Name: nafay
+Gender: male
+Specialization: 8
+Experience: 7 years
+
+-------------------------
+ID: 23
+Name: Dr.Subhan
+Gender: male
+Specialization: Heart
+Experience: 5 years
+
+-------------------------
